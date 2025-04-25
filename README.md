@@ -79,9 +79,10 @@ Este projeto é uma aplicação simples para a criação de personagens de RPG. 
     pip install -r requirements.txt
     ```
 
-4. Execute o projeto:
+4. Navegue até a pasta do código-fonte e execute o projeto:
 
     ```bash
+    cd src
     python main.py
     ```
 
