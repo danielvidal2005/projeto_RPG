@@ -1,1 +1,5 @@
 .venv/
+build
+dist
+main.spec
+personagem_RPG.spec
